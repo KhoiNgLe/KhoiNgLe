@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for an internship <br>🔭 I’m currently working on my portfolio<br>👯 I’m looking to collaborate on open source project<br>🌱 I’m currently learning Algorithm & Data Structure<br>💬 Ask me about anything design, branding, development, design thinking
+🤝 I’m looking for Front-End Dev internship <br>🔭 I’m currently working as a Production Planner at Tigercat<br>👯 I’m looking to collaborate on open source project<br>🌱 I’m currently learning Algorithm & Data Structure<br>💬 Ask me about anything design, branding, development, design thinking
 
 
 ## 🌐 Socials:
